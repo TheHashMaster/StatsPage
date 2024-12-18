@@ -1,7 +1,7 @@
 {
-  "name": "AlphaplatformStatsPage",
+  "name": "
   "version": "1.0.0",
-  "description": "Alpha Platform Stats for the Mining Pool",
+  "description": ,
   "scripts": {
     "server": "npm start --prefix ./server",
     "client": "npm start --prefix ./client",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crypt04dvisor/AlphaplatformStatsPage.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://crypt04dvisor/AlphaplatformStatsPage/bugs"
+    "url": "
   },
-  "homepage": "https://crypt04dvisor/AlphaplatformStatsPage",
+  "homepage": "
   "engines": {
     "node": "16.11.1",
     "npm": "8.1.0"
